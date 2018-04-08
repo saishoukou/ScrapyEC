@@ -1,0 +1,2 @@
+# ScrapyEC
+shoppingProject
